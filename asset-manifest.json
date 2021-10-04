@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/world-of-tank/static/css/main.4b236458.chunk.css",
+    "main.js": "/world-of-tank/static/js/main.356573d6.chunk.js",
+    "main.js.map": "/world-of-tank/static/js/main.356573d6.chunk.js.map",
+    "runtime-main.js": "/world-of-tank/static/js/runtime-main.59f13ae1.js",
+    "runtime-main.js.map": "/world-of-tank/static/js/runtime-main.59f13ae1.js.map",
+    "static/js/2.0955f232.chunk.js": "/world-of-tank/static/js/2.0955f232.chunk.js",
+    "static/js/2.0955f232.chunk.js.map": "/world-of-tank/static/js/2.0955f232.chunk.js.map",
+    "index.html": "/world-of-tank/index.html",
+    "static/css/main.4b236458.chunk.css.map": "/world-of-tank/static/css/main.4b236458.chunk.css.map",
+    "static/js/2.0955f232.chunk.js.LICENSE.txt": "/world-of-tank/static/js/2.0955f232.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59f13ae1.js",
+    "static/js/2.0955f232.chunk.js",
+    "static/css/main.4b236458.chunk.css",
+    "static/js/main.356573d6.chunk.js"
+  ]
+}
