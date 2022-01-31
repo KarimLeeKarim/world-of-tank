@@ -4,7 +4,11 @@
 
 1.In order to move you tank please press this buttons on your NoteBook or PC:
 ```bash
-Up, Down, Left, Right 
+*Up
+*Down
+*Left
+*Right 
 ```
 
 2.In order to shoot please press Space on your NoteBook or PC:
+
