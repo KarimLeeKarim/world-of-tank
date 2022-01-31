@@ -10,5 +10,5 @@
 * Right 
 ```
 
-2.In order to shoot please press Space on your NoteBook or PC:
+2.In order to shoot please press <b>Space</b> on your NoteBook or PC:
 
