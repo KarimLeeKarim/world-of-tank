@@ -2,7 +2,9 @@
 
 *Brief info: Small and simple Tank game*
 
-1.In order to move you tank please press this button on your NoteBook or PC:
+1.In order to move you tank please press this buttons on your NoteBook or PC:
 ```bash
-⬆ < > ⬇ 
+Up, Down, Left, Right 
 ```
+
+2.In order to shoot please press Space on your NoteBook or PC:
